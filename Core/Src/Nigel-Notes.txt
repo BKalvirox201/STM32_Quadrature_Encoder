@@ -1,0 +1,15 @@
+
+MACRO to get Timer Direction -> This is useful for indexing axis events as you need to know on the rising edge which direction you are going.
+__HAL_TIM_IS_TIM_COUNTING_DOWN
+
+
+UGHHH
+
+Right
+
+
+
+
+
+
+
